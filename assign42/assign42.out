@@ -1,0 +1,435 @@
+Username:  schward
+Date:      Tue Mar 30 11:17:28 EDT 2021
+ 
+*** making assign41 ***
+make: 'assign42' is up to date.
+--- Running ---
+ 
+Deven Schwartz
+Assignment 4.3: Linear and Circular Linked Lists
+Loops through a menu of choices that allow for the manipulation of a circular list.
+
+Enter a file name to create the list: 
+You entered: /home/mathcs/turnin/bracken/input3.text
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+9
+20
+23
+30
+33
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 2
+(Finding an item)
+Enter an integer to find in the list: 
+You entered: 9
+The value you entered (9) is in position 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 2
+(Finding an item)
+Enter an integer to find in the list: 
+You entered: 550
+The value you entered (550) is not in the list 
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 3
+(Inserting an item)
+Enter an integer to add to the list: 
+You entered: 20
+20 has been added to the list.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+9
+20
+20
+23
+30
+33
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 3
+(Inserting an item)
+Enter an integer to add to the list: 
+You entered: 75
+75 has been added to the list.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+9
+20
+20
+23
+30
+33
+75
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 4
+(Deleting an item from the list)
+Enter an integer to remove from the list: 
+You entered: 75
+75 has been removed from the list
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+9
+20
+20
+23
+30
+33
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 4
+(Deleting an item from the list)
+Enter an integer to remove from the list: 
+You entered: 9
+9 has been removed from the list
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+20
+20
+23
+30
+33
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 5
+(Add elements from a file)
+You entered: /home/mathcs/turnin/bracken/input3a.text
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+20
+20
+23
+30
+33
+44
+77
+78
+99
+330
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 6
+(Displaying number of items in the list)
+There is 14 element(s) in the list.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 7
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the list and printing the new list: 
+1
+3
+8
+20
+20
+23
+30
+33
+44
+77
+78
+99
+330
+500
+ending
+---running again-
+ 
+Deven Schwartz
+Assignment 4.3: Linear and Circular Linked Lists
+Loops through a menu of choices that allow for the manipulation of a circular list.
+
+Enter a file name to create the list: 
+You entered: /home/mathcs/turnin/bracken/input3.text
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 1
+(Displaying the list)
+1
+3
+8
+9
+20
+23
+30
+33
+77
+500
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 6
+(Displaying number of items in the list)
+There is 10 element(s) in the list.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 2
+(Finding an item)
+Enter an integer to find in the list: 
+You entered: 500
+The value you entered (500) is in position 10
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to display the list. 
+   2 to find an item. 
+   3 to insert an element into the list. 
+   4 to delete an element from the list. 
+   5 to add elements to the list from a file. 
+   6 to display the number of items in the list. 
+   7 to exit the menu. 
+	
+You entered: 7
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the list and printing the new list: 
+1
+3
+8
+9
+20
+23
+30
+33
+77
+500
+ending
+ 

@@ -1,0 +1,1206 @@
+Username:  schward
+Date:      Thu May 6 11:44:18 EDT 2021
+ 
+*** compiling ***
+g++ assign10.o graph.o queuei.o -g -o assign10
+--- Running ---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 7
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 1
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 1
+Enter the second node in the edge: 
+You entered: 4
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 3
+Enter the second node in the edge: 
+You entered: 4
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 4
+Enter the second node in the edge: 
+You entered: 5
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 4
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 6
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 0
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 1
+DFS visiting: 6
+DFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 1
+DFS visiting: 6
+A cycle does not exist in the graph. The results are:
+6
+0
+1
+3
+4
+5
+2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 3
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 6
+DFS visiting: 0
+DFS visiting: 1
+DFS successful from: 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 4
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 6
+DFS visiting: 3
+DFS visiting: 0
+DFS visiting: 1
+DFS successful from: 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 5
+DFS visiting: 5
+DFS visiting: 6
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 0
+DFS visiting: 1
+DFS successful from: 5
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 1
+DFS visiting: 6
+A cycle does not exist in the graph. The results are:
+6
+0
+1
+3
+4
+5
+2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 0
+BFS visiting: 0
+BFS visiting: 3
+BFS visiting: 1
+BFS visiting: 4
+BFS visiting: 2
+BFS visiting: 5
+BFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 1
+BFS visiting: 1
+BFS visiting: 4
+BFS visiting: 2
+BFS visiting: 5
+BFS successful from: 1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 3
+BFS visiting: 3
+BFS visiting: 4
+BFS visiting: 2
+BFS visiting: 5
+BFS successful from: 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 4
+BFS visiting: 4
+BFS visiting: 2
+BFS visiting: 5
+BFS successful from: 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 2
+DFS visiting: 5
+DFS visiting: 1
+DFS visiting: 6
+DFS (from node 0) of copygraph was successful.
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 5
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 1
+Enter the second node in the edge: 
+You entered: 4
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 2
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 3
+Enter the second node in the edge: 
+You entered: 0
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 2
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 0
+DFS visiting: 1
+DFS visiting: 4
+DFS successful from: 2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 0
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 1
+DFS visiting: 4
+DFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 1
+DFS visiting: 4
+A cycle exist in the graph so no list can be made.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 0
+BFS visiting: 0
+BFS visiting: 2
+BFS visiting: 1
+BFS visiting: 3
+BFS visiting: 4
+BFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 1
+BFS visiting: 1
+BFS visiting: 4
+BFS successful from: 1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 2
+BFS visiting: 2
+BFS visiting: 3
+BFS visiting: 0
+BFS visiting: 1
+BFS visiting: 4
+BFS successful from: 2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 1
+DFS visiting: 4
+DFS (from node 0) of copygraph was successful.
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 5
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 0
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 3
+DFS visiting: 4
+DFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 1
+DFS visiting: 1
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 0
+DFS successful from: 1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 2
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 0
+DFS visiting: 1
+DFS successful from: 2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 3
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 1
+DFS successful from: 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 4
+DFS visiting: 4
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 3
+DFS successful from: 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 3
+DFS visiting: 4
+A cycle does not exist in the graph. The results are:
+4
+3
+0
+1
+2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 0
+BFS visiting: 0
+BFS visiting: 2
+BFS visiting: 1
+BFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 1
+BFS visiting: 1
+BFS successful from: 1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 2
+BFS visiting: 2
+BFS successful from: 2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 3
+BFS visiting: 3
+BFS successful from: 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 4
+BFS visiting: 4
+BFS successful from: 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 3
+DFS visiting: 4
+DFS (from node 0) of copygraph was successful.
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 5
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 1
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 3
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 4
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 0
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 4
+DFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 4
+A cycle does not exist in the graph. The results are:
+4
+0
+1
+3
+2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 3
+(Do a breadth-first search)
+Enter the starting index: 
+You entered: 0
+BFS visiting: 0
+BFS visiting: 3
+BFS visiting: 1
+BFS visiting: 2
+BFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 3
+DFS visiting: 2
+DFS visiting: 1
+DFS visiting: 4
+DFS (from node 0) of copygraph was successful.
+---Running again 5---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 3
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 1
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 2
+Enter the second node in the edge: 
+You entered: 0
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 1
+(Do a depth-first search)
+Enter the starting index: 
+You entered: 0
+DFS visiting: 0
+DFS visiting: 1
+DFS visiting: 2
+DFS successful from: 0
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 1
+DFS visiting: 2
+A cycle exist in the graph so no list can be made.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 1
+DFS visiting: 2
+DFS (from node 0) of copygraph was successful.
+---Running Again ---
+ 
+Deven Schwartz
+Assignment 10: graphs
+Creates a graph given user information then loops a menu allowing user to display the created grap. Ends with a displayed copied graph.
+
+Enter the number of vertices: 
+You entered: 5
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 1
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 0
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 2
+Enter the second node in the edge: 
+You entered: 3
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 3
+Enter the second node in the edge: 
+You entered: 4
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: y
+Adding an edge.
+Enter the first node in the edge: 
+You entered: 4
+Enter the second node in the edge: 
+You entered: 2
+
+ 
+Do you have an edge to enter? Enter: 
+y for yes. 
+n for no. 
+	
+You entered: n
+No more edges to add.
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 2
+(Do a topological sort)
+Calling DFS with 0.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 1
+A cycle exist in the graph so no list can be made.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Do a depth-first search. 
+   2 to Do a topological sort. 
+   3 to Do a breadth-first search. 
+   4 to Exit the program. 
+	
+You entered: 4
+(Exiting the menu.)
+-Goodbye-
+
+Creating a copy of the graph.
+DFS visiting: 0
+DFS visiting: 2
+DFS visiting: 3
+DFS visiting: 4
+DFS visiting: 1
+DFS (from node 0) of copygraph was successful.
+ 

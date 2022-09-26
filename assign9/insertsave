@@ -1,0 +1,45 @@
+    gennode *temp;
+    temp = new gennode;
+    temp = root;
+    gennode *temp2;
+    temp2 = new gennode;
+
+    if(temp->item == insertnum){
+        //cout<<"root is parent"<<endl;
+        temp2 = temp;
+        //insert here.
+    }else{
+        if(temp->firstchild == NULL){
+            cout<<"Parent does not exist."<<endl;
+            return false;
+        }else{
+            temp = temp->firstchild;
+        }
+        while(temp != root || temp->item == insertnum){
+            if(temp->item == insertnum){
+                //is parent
+                //cout<<"insert at this position"<<endl;
+                temp2 = temp;
+                break;
+            }else if(temp->firstchild != NULL){
+                temp = temp->firstchild;
+
+            }else if(temp->siblinglist != NULL){
+                temp = temp->siblinglist;
+            }else{
+                temp = temp->parent;
+                while(temp->siblinglist == NULL){
+                    if(temp == root){
+                        //cout<<"not found"<<endl;
+                        return false;
+                    }
+                    temp = temp->parent;
+
+
+                }
+                temp = temp->siblinglist;
+            }
+        }
+        temp2 = temp;
+
+    }

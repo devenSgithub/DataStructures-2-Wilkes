@@ -1,0 +1,174 @@
+Username:  schward
+Date:      Tue Apr 27 11:45:20 EDT 2021
+ 
+*** making assign61 ***
+g++ huffmancode.o PQHeap.o huffman.o -g -o huffmancode
+--- Running ---
+ 
+Deven Schwartz
+Assignment 10: Huffman Code
+produces huffman code for a file input.
+
+enter the name of a file containing the characters
+You entered: /home/mathcs/turnin/bracken/huffman1.test
+A,7
+B,3
+C,2
+F,1
+Q,1
+X,2
+Y,2
+Z,1
+symbol = C, frequency = 2 display test
+symbol = F, frequency = 1 display test
+symbol = X, frequency = 2 display test
+symbol = Z, frequency = 1 display test
+symbol = Q, frequency = 1 display test
+symbol = B, frequency = 3 display test
+symbol = Y, frequency = 2 display test
+symbol = A, frequency = 7 display test
+Destructor executing
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: Huffman Code
+produces huffman code for a file input.
+
+enter the name of a file containing the characters
+You entered: /home/mathcs/turnin/bracken/huffman2.test
+A,16
+B,5
+C,12
+D,17
+E,10
+F,25
+symbol = B, frequency = 5 display test
+symbol = E, frequency = 10 display test
+symbol = C, frequency = 12 display test
+symbol = D, frequency = 17 display test
+symbol = A, frequency = 16 display test
+symbol = F, frequency = 25 display test
+Destructor executing
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: Huffman Code
+produces huffman code for a file input.
+
+enter the name of a file containing the characters
+You entered: /home/mathcs/turnin/bracken/huffman3.test
+A,5
+B,4
+C,1
+D,1
+E,1
+F,1
+G,1
+H,1
+I,1
+J,1
+K,1
+L,1
+M,1
+N,1
+O,1
+P,1
+Q,1
+R,1
+S,1
+T,1
+U,1
+V,1
+W,1
+X,1
+Y,1
+Z,1
+symbol = C, frequency = 1 display test
+symbol = D, frequency = 1 display test
+symbol = F, frequency = 1 display test
+symbol = H, frequency = 1 display test
+symbol = E, frequency = 1 display test
+symbol = L, frequency = 1 display test
+symbol = G, frequency = 1 display test
+symbol = P, frequency = 1 display test
+symbol = I, frequency = 1 display test
+symbol = J, frequency = 1 display test
+symbol = K, frequency = 1 display test
+symbol = X, frequency = 1 display test
+symbol = M, frequency = 1 display test
+symbol = N, frequency = 1 display test
+symbol = O, frequency = 1 display test
+symbol = A, frequency = 5 display test
+symbol = Q, frequency = 1 display test
+symbol = R, frequency = 1 display test
+symbol = S, frequency = 1 display test
+symbol = T, frequency = 1 display test
+symbol = U, frequency = 1 display test
+symbol = V, frequency = 1 display test
+symbol = W, frequency = 1 display test
+symbol = B, frequency = 4 display test
+symbol = Y, frequency = 1 display test
+symbol = Z, frequency = 1 display test
+Destructor executing
+--- Running again ---
+ 
+Deven Schwartz
+Assignment 10: Huffman Code
+produces huffman code for a file input.
+
+enter the name of a file containing the characters
+You entered: /home/mathcs/turnin/bracken/huffman4.test
+A,1
+B,1
+C,1
+D,1
+E,1
+F,1
+G,1
+H,1
+I,1
+J,1
+K,1
+L,1
+M,1
+N,1
+O,1
+P,1
+Q,1
+R,1
+S,1
+T,1
+U,1
+V,1
+W,1
+X,1
+Y,1
+Z,1
+symbol = A, frequency = 1 display test
+symbol = B, frequency = 1 display test
+symbol = C, frequency = 1 display test
+symbol = D, frequency = 1 display test
+symbol = E, frequency = 1 display test
+symbol = F, frequency = 1 display test
+symbol = G, frequency = 1 display test
+symbol = H, frequency = 1 display test
+symbol = I, frequency = 1 display test
+symbol = J, frequency = 1 display test
+symbol = K, frequency = 1 display test
+symbol = L, frequency = 1 display test
+symbol = M, frequency = 1 display test
+symbol = N, frequency = 1 display test
+symbol = O, frequency = 1 display test
+symbol = P, frequency = 1 display test
+symbol = Q, frequency = 1 display test
+symbol = R, frequency = 1 display test
+symbol = S, frequency = 1 display test
+symbol = T, frequency = 1 display test
+symbol = U, frequency = 1 display test
+symbol = V, frequency = 1 display test
+symbol = W, frequency = 1 display test
+symbol = X, frequency = 1 display test
+symbol = Y, frequency = 1 display test
+symbol = Z, frequency = 1 display test
+Destructor executing
+ 
