@@ -1,9 +1,0 @@
-Username:  schward
-Date:      Fri Apr 9 14:33:42 EDT 2021
- 
-***making assign9 ***
-g++ assign7.o sbinarytree.o BTstack.o -g -o assign7
---- Running ---
- 
-./assign9: Command not found.
- 
