@@ -1,6 +1,0 @@
-    for (int i = 0; i < numberofelements; i++){
-        
-
-
-        adj[i]=g1.adj[i];
-    }
