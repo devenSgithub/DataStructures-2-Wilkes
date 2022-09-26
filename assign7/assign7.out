@@ -1,0 +1,1571 @@
+Username:  schward
+Date:      Fri Apr 9 14:22:54 EDT 2021
+ 
+***making assign7 ***
+make: 'assign7' is up to date.
+--- Running ---
+ 
+Deven Schwartz
+Assignment 7: Binary Trees
+Loops through a menu of choices that allow for the manipulation of an array based complete tree.
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 1
+1 has been added to the list.
+The item (1) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 2
+2 has been added to the list.
+The item (2) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 3
+3 has been added to the list.
+The item (3) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 4
+4 has been added to the list.
+The item (4) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 5
+5 has been added to the list.
+The item (5) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 6
+6 has been added to the list.
+The item (6) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 7
+7 has been added to the list.
+The item (7) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 8
+8 has been added to the list.
+The item (8) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is not a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 8
+(Print the number of elements in the tree)
+The number of elements in the tree is 8
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 9
+9 has been added to the list.
+The item (9) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 10
+10 has been added to the list.
+The item (10) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 11
+11 has been added to the list.
+The item (11) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 12
+12 has been added to the list.
+The item (12) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 13
+13 has been added to the list.
+The item (13) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 14
+14 has been added to the list.
+The item (14) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is not a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 8
+(Print the number of elements in the tree)
+The number of elements in the tree is 14
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 1
+(Add an element to the binary tree)
+Enter an integer to add to the tree: 
+You entered: 15
+15 has been added to the list.
+The item (15) was added to the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 8
+(Print the number of elements in the tree)
+The number of elements in the tree is 15
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 1
+Level 1 is being displayed.
+1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 2
+Level 2 is being displayed.
+2
+3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 3
+Level 3 is being displayed.
+4
+5
+6
+7
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 4
+Level 4 is being displayed.
+8
+9
+10
+11
+12
+13
+14
+15
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 5
+Level 5 is being displayed.
+The level selected is not in the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 4
+(Inorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+15   14
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 5
+(Preorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+15   14
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 6
+(Postorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+15   14
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (15) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 4
+(Inorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 5
+(Preorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 6
+(Postorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+8   7
+9   8
+10   9
+11   10
+12   11
+13   12
+14   13
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is not a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 8
+(Print the number of elements in the tree)
+The number of elements in the tree is 14
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 4
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (14) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (13) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (12) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (11) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (10) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (9) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (8) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 9
+(Print a message stating whether the tree is a full binary tree or not)
+Tree is a full binary tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 8
+(Print the number of elements in the tree)
+The number of elements in the tree is 7
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 7
+(Print the height of the tree)
+The hieght of the tree is 3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 1
+Level 1 is being displayed.
+1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 2
+Level 2 is being displayed.
+2
+3
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 3
+Level 3 is being displayed.
+4
+5
+6
+7
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 4
+(Inorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 5
+(Preorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 6
+(Postorder traversal)
+1   0
+2   1
+3   2
+4   3
+5   4
+6   5
+7   6
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (7) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (6) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (5) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (4) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (3) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 1
+Level 1 is being displayed.
+1
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 3
+(Display level i of the tree)
+Enter a level to display from the tree: 
+You entered: 2
+Level 2 is being displayed.
+2
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (2) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+The item (1) was deleted from the tree.
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 2
+(Delete an element from the tree)
+Nothing was deleted from the tree. (Tree is empty)
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 4
+(Inorder traversal)
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 5
+(Preorder traversal)
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 6
+(Postorder traversal)
+
+Returning to menu selection
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+	
+You entered: 10
+(Exiting the menu.)
+-Goodbye-
+
+ending
+--- invalid inputRunning again ---
+ 
+Deven Schwartz
+Assignment 7: Binary Trees
+Loops through a menu of choices that allow for the manipulation of an array based complete tree.
+
+ 
+Enter: 
+   1 to Add an element to the binary tree. 
+   2 to Delete an element from the tree. 
+   3 to Display level i of the tree. 
+   4 to Preform an Inorder traversal of the tree. 
+   5 to Preform an Preorder traversal of the tree. 
+   6 to Preform an Postorder traversal of the tree. 
+   7 to Print the height of the tree. 
+   8 to Print the number of elements in the tree. 
+   9 to Print a message stating whether the tree is a full binary tree or not. 
+   10 to exit the menu. 
+You entered invalid input, reenter an integer 
+	
+You entered: 10
+(Exiting the menu.)
+-Goodbye-
+
+ending
+ 
